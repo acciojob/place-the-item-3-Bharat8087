@@ -1,7 +1,10 @@
 #holder {
+	flex-wrap:wrap;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+	position:row;
+	background-color:red;
 }
 
 .item {
